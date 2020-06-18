@@ -1,2 +1,2 @@
-# pygame_game
+# pygame_spaceinvadersgame
 pygame 
